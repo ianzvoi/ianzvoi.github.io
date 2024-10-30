@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="135mm" height="76mm" viewBox="0 0 13500 7600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(0,69,134)" stroke="none" d="M 4370,2195 C 4095,2195 3822,2239 3561,2324 3300,2409 3053,2534 2831,2696 2663,2817 2511,2959 2376,3117 L 4370,4813 4370,4813 4370,4813 4370,4813 4370,2195 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 2376,3117 C 2210,3312 2073,3531 1970,3767 L 4370,4813 4370,4813 2376,3117 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 1970,3767 C 1932,3854 1898,3944 1869,4036 L 4370,4813 4370,4813 1970,3767 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 1869,4036 C 1855,4081 1843,4126 1831,4172 L 4370,4813 4370,4813 1869,4036 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 1831,4172 C 1769,4418 1743,4671 1754,4924 L 4370,4813 4370,4813 1831,4172 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 1754,4924 C 1764,5161 1806,5396 1880,5622 1965,5883 2090,6130 2252,6352 2413,6574 2609,6770 2831,6931 3053,7093 3300,7218 3561,7303 3822,7388 4095,7432 4370,7432 4645,7432 4918,7388 5179,7303 5344,7250 5504,7180 5655,7094 L 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 1754,4924 Z"/>
+ <path fill="rgb(49,64,4)" stroke="none" d="M 5655,7094 C 5811,7007 5957,6903 6091,6786 L 4370,4813 4370,4813 5655,7094 Z"/>
+ <path fill="rgb(174,207,0)" stroke="none" d="M 6091,6786 C 6240,6657 6373,6511 6488,6352 6540,6282 6587,6209 6631,6133 L 4370,4813 4370,4813 4370,4813 6091,6786 Z"/>
+ <path fill="rgb(75,31,111)" stroke="none" d="M 6631,6133 C 6726,5972 6801,5800 6859,5622 6944,5361 6988,5088 6988,4813 6988,4538 6944,4265 6859,4004 6783,3769 6674,3544 6534,3339 L 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 6631,6133 Z"/>
+ <path fill="rgb(255,149,14)" stroke="none" d="M 6534,3339 C 6519,3317 6504,3296 6488,3275 6327,3053 6131,2857 5909,2696 5687,2534 5440,2409 5179,2324 4918,2239 4645,2195 4370,2195 L 4370,4813 4370,4813 4370,4813 4370,4813 4370,4813 6534,3339 Z"/>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="459px" font-weight="400"><tspan class="TextPosition" x="4942" y="941"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">餐饮支出类别统计</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="388px" font-weight="400"><tspan class="TextPosition" x="4875" y="1848"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2024.8.18-2024.10.10</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 8976,2683 L 8870,2683 8870,2472 9081,2472 9081,2683 8976,2683 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 11241,2683 L 11135,2683 11135,2472 11346,2472 11346,2683 11241,2683 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 8976,3287 L 8870,3287 8870,3076 9081,3076 9081,3287 8976,3287 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 11241,3287 L 11135,3287 11135,3076 11346,3076 11346,3287 11241,3287 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 8976,3890 L 8870,3890 8870,3680 9081,3680 9081,3890 8976,3890 Z"/>
+ <path fill="rgb(131,202,255)" stroke="none" d="M 11241,3890 L 11135,3890 11135,3680 11346,3680 11346,3890 11241,3890 Z"/>
+ <path fill="rgb(49,64,4)" stroke="none" d="M 8976,4494 L 8870,4494 8870,4283 9081,4283 9081,4494 8976,4494 Z"/>
+ <path fill="rgb(174,207,0)" stroke="none" d="M 11241,4494 L 11135,4494 11135,4283 11346,4283 11346,4494 11241,4494 Z"/>
+ <path fill="rgb(75,31,111)" stroke="none" d="M 8976,5098 L 8870,5098 8870,4887 9081,4887 9081,5098 8976,5098 Z"/>
+ <path fill="rgb(255,149,14)" stroke="none" d="M 11241,5098 L 11135,5098 11135,4887 11346,4887 11346,5098 11241,5098 Z"/>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9181" y="2723"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">兰州拉面</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11446" y="2723"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">无名缘米线</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9181" y="3327"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">板面</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11446" y="3327"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">水果</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9181" y="3930"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">沙县小吃</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11446" y="3930"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">煎饼</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9181" y="4534"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">瑞星咖啡</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11446" y="4534"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">蜜雪冰城</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="9181" y="5138"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">麦当劳快餐</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Sans CJK SC, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="11446" y="5138"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">麻辣烫</tspan></tspan></tspan></text>
+</svg>

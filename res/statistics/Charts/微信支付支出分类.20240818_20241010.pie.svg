@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="160mm" height="90mm" viewBox="0 0 16000 9000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(0,69,134)" stroke="none" d="M 9835,690 C 9444,690 9055,751 8683,872 8312,993 7962,1171 7646,1401 7329,1631 7051,1909 6821,2226 6591,2542 6413,2893 6292,3264 6200,3548 6142,3843 6120,4140 L 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9835,690 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 6120,4140 C 6113,4232 6110,4324 6110,4416 6110,4806 6171,5195 6292,5567 6413,5938 6591,6289 6821,6605 7051,6922 7329,7200 7646,7430 7962,7660 8312,7838 8683,7959 8950,8046 9225,8102 9505,8127 L 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 6120,4140 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 9505,8127 C 9614,8137 9725,8142 9835,8142 10226,8142 10615,8080 10987,7959 11358,7838 11709,7660 12025,7430 12235,7277 12428,7104 12602,6911 L 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9505,8127 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 12602,6911 C 12690,6814 12773,6712 12850,6605 13080,6289 13258,5938 13379,5567 13500,5195 13562,4806 13562,4416 13562,4409 13561,4401 13561,4394 L 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 12602,6911 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 13561,4394 C 13559,4010 13498,3629 13379,3264 13258,2893 13080,2542 12850,2226 12620,1909 12342,1631 12025,1401 11709,1171 11358,993 10987,872 10615,751 10226,690 9835,690 L 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 9835,4416 13561,4394 Z"/>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto Serif CJK SC, serif" font-size="459px" font-weight="700"><tspan class="TextPosition" x="685" y="912"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">微信支付支出分类</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="388px" font-weight="400"><tspan class="TextPosition" x="672" y="1667"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2024.08.18-2024.10.10</tspan></tspan></tspan></text>
+ <path fill="rgb(0,69,134)" stroke="none" d="M 2163,3624 L 2058,3624 2058,3413 2269,3413 2269,3624 2163,3624 Z"/>
+ <path fill="rgb(255,66,14)" stroke="none" d="M 2163,4228 L 2058,4228 2058,4017 2269,4017 2269,4228 2163,4228 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 2163,4831 L 2058,4831 2058,4620 2269,4620 2269,4831 2163,4831 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 2163,5435 L 2058,5435 2058,5224 2269,5224 2269,5435 2163,5435 Z"/>
+ <path fill="rgb(126,0,33)" stroke="none" d="M 2163,6039 L 2058,6039 2058,5828 2269,5828 2269,6039 2163,6039 Z"/>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto SerifCJK SC, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="2369" y="3664"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">书费</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto SerifCJK SC, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="2369" y="4268"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">其他费用</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto SerifCJK SC, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="2369" y="4871"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">日用品费</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto SerifCJK SC, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="2369" y="5475"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">转账</tspan></tspan></tspan></text>
+ <text class="SVGTextShape"><tspan class="TextParagraph" font-family="Noto SerifCJK SC, serif" font-size="353px" font-weight="700"><tspan class="TextPosition" x="2369" y="6079"><tspan fill="rgb(0,0,0)" stroke="none" style="white-space: pre">餐费</tspan></tspan></tspan></text>
+</svg>
