@@ -3,6 +3,7 @@ body {
     padding: 0 1em;
     text-align: left;
     font-family: sans-serif;
+    background-color: rgba(0, 0, 0, 0.055);
 }
 
 h1 {
@@ -18,7 +19,7 @@ p{
     margin-left:  12px;
     padding-left: 12px;
     text-indent: 2vw;
-    font-size: larger;
+    font-size: 0.5cm;
 }
 
 #navi li{
@@ -84,7 +85,8 @@ table,tr,td{
 }
 table{
     margin:2em auto;
-    width: 80%;
+    max-width: 700;
+    min-width: 400;
     border-collapse: collapse;
     
 }
