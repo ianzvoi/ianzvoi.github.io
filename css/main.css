@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0 1em;
     text-align: left;
+    font-size: 0.5cm;
     font-family: sans-serif;
     background-color: rgba(0, 0, 0, 0.055);
 }
@@ -60,9 +61,11 @@ table.file{
 }
 .file th{
     width: 2.1in;
+    
 }
 .file td{
     text-align:center;
+    font-size: inherit;
     vertical-align: top;
 }
 .file h2{
@@ -71,16 +74,19 @@ table.file{
 }
 .file a{
     text-decoration: none;
+    font-size: inherit;
 }
 p.tabl{
     margin: 0px;
     text-indent: 0px;
+    font-size: inherit;
     text-align: left;
 }
 
 table,tr,td{
     border: 2px solid;
     text-align: center;
+    font-size: inherit;
     border-color: #ccbaa2b8;
 }
 table{
@@ -88,7 +94,7 @@ table{
     max-width: 750;
     min-width: 750;
     border-collapse: collapse;
-    
+    font-size: inherit;
 }
 tr{
     height: 1cm;
@@ -98,5 +104,5 @@ tr{
     color: rgb(102, 5, 5);
 }
 #friends.body{
-    min-height: 600px;
+    min-height: 29em;
 }
